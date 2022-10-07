@@ -1,6 +1,6 @@
-<h3>Array.prototype.slice </h3>
+<h2>Array.prototype.slice </h2>
 
-원본배열은 수정하지 않고 복사본을 새로운 배열 객체로 반환
+<h4 style="color:blue;">원본배열은 수정하지 않고 복사본을 새로운 배열 객체로 반환</h4>
 
 slice(start[, end])
 
@@ -20,7 +20,7 @@ __반환값: 추출한 요소를 포함한 새로운 배열.__
 
 <h3>Array.prototype.splice()</h3>
 
-splice() 메소드는 배열의 기존 요소를 삭제 또는 교체하거나 새 요소를 추가하여 배열의 내용을 변경한다. 이 메소드는 원본 배열 자체를 수정한다.
+```splice() 메소드는 배열의 기존 요소를 삭제 또는 교체하거나 새 요소를 추가하여 배열의 내용을 변경한다. 이 메소드는 원본 배열 자체를 수정한다.```
 
 ```splice(start[, deleteCount[, item1[, item2[, ...]]]])```
 
